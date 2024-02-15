@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, react native, Express**
 
-- 📫 How to reach me **www.linkedin.com/in/evelybensonchatelain chatelainbusiness@gmail.com**
+- 📫 How to reach me ** chatelainbusiness@gmail.com**
 
 - 📄 Know about my experiences [https://bocacode.com/candidates/software-engineer/evelybenson-chatelain](https://bocacode.com/candidates/software-engineer/evelybenson-chatelain)
 
