@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evelybenson Chatelain</h1>
 <h3 align="center">Evelybenson Chatelain is a dynamic Full Stack Developer and software engineer, passionate about crafting exceptional digital experiences. He excels in technologies such as React, React Native, TypeScript, JavaScript, Node.js, and Express.js, demonstrating mastery of tools driving modern web and mobile development. His proficiency extends to database management with MongoDB, FIRESTORE, MySQL, enriching his skill set. Beyond coding, Evelybenson is a versatile creative force, seamlessly blending technology and design as a graphic designer. His ability to marry technical expertise with a keen eye for aesthetics results in captivating and user-friendly digital solutions. Evelybenson's commitment to shaping the digital landscape is evident in his role as a tech enthusiast and creative genius, using his skills to craft innovative and visually stunning digital interfaces. In summary, Evelybenson is a driving force in the tech world, leaving an indelible mark through his coding prowess and design finesse. 🚀🎨💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benson-optimiste1&label=Profile%20views&color=0e75b6&style=flat" alt="benson-optimiste1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benson-optimiste1" alt="benson-optimiste1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ing_evelybenson" target="blank"><img src="https://img.shields.io/twitter/follow/ing_evelybenson?logo=twitter&style=for-the-badge" alt="ing_evelybenson" /></a> </p>
 
 - 🔭 I’m currently working on [IMCONA](https://fir-auth-ceb.web.app/)
 
